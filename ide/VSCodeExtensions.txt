@@ -10,6 +10,7 @@ formulahendry.code-runner
 genuitecllc.codetogether
 golang.go
 humao.rest-client
+KnisterPeter.vscode-github
 LaurentTreguier.vscode-simple-icons
 mikestead.dotenv
 ms-azuretools.vscode-docker
