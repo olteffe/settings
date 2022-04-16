@@ -8,9 +8,9 @@ donjayamanne.githistory
 eamodio.gitlens
 formulahendry.code-runner
 genuitecllc.codetogether
+GitHub.vscode-pull-request-github
 golang.go
 humao.rest-client
-KnisterPeter.vscode-github
 LaurentTreguier.vscode-simple-icons
 mikestead.dotenv
 ms-azuretools.vscode-docker
