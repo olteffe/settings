@@ -1,4 +1,6 @@
+42Crunch.vscode-openapi
 aaron-bond.better-comments
+akamud.vscode-theme-onedark
 alefragnani.project-manager
 codezombiech.gitignore
 CoenraadS.bracket-pair-colorizer-2
@@ -9,12 +11,12 @@ eamodio.gitlens
 formulahendry.code-runner
 genuitecllc.codetogether
 GitHub.vscode-pull-request-github
+GitLab.gitlab-workflow
 golang.go
 humao.rest-client
 LaurentTreguier.vscode-simple-icons
 mikestead.dotenv
 ms-azuretools.vscode-docker
-MS-CEINTL.vscode-language-pack-ru
 ms-python.python
 ms-toolsai.jupyter
 ms-toolsai.jupyter-keymap
