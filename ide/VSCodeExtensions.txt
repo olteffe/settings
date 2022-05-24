@@ -21,6 +21,7 @@ ms-python.python
 ms-toolsai.jupyter
 ms-toolsai.jupyter-keymap
 ms-toolsai.jupyter-renderers
+muhammad-sammy.csharp
 redhat.vscode-yaml
 Shan.code-settings-sync
 yzhang.markdown-all-in-one
