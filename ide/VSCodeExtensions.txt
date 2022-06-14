@@ -15,6 +15,7 @@ GitLab.gitlab-workflow
 golang.go
 humao.rest-client
 LaurentTreguier.vscode-simple-icons
+matklad.rust-analyzer
 mikestead.dotenv
 ms-azuretools.vscode-docker
 ms-python.python
@@ -23,6 +24,7 @@ ms-toolsai.jupyter-keymap
 ms-toolsai.jupyter-renderers
 muhammad-sammy.csharp
 redhat.vscode-yaml
+rust-lang.rust
 Shan.code-settings-sync
 yzhang.markdown-all-in-one
 zhuangtongfa.material-theme
